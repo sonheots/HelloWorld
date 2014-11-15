@@ -99,6 +99,8 @@
 				48883B9F1A176C2C00175A9E /* Supporting Files */,
 				48883BC51A1770CA00175A9E /* SecondViewController.h */,
 				48883BC61A1770CA00175A9E /* SecondViewController.m */,
+				48883BC81A1771BB00175A9E /* MapViewController.h */,
+				48883BC91A1771BB00175A9E /* MapViewController.m */,
 			);
 			path = HelloWorldExample;
 			sourceTree = "<group>";
@@ -231,6 +233,7 @@
 			files = (
 				48883BC71A1770CA00175A9E /* SecondViewController.m in Sources */,
 				48883BA81A176C2C00175A9E /* ViewController.m in Sources */,
+				48883BCA1A1771BB00175A9E /* MapViewController.m in Sources */,
 				48883BA51A176C2C00175A9E /* AppDelegate.m in Sources */,
 				48883BA21A176C2C00175A9E /* main.m in Sources */,
 				91806B591A177175008CDA98 /* ThirdViewViewController.m in Sources */,
