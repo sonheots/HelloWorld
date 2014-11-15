@@ -15,6 +15,7 @@
 		48883BB01A176C2C00175A9E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 48883BAE1A176C2C00175A9E /* LaunchScreen.xib */; };
 		48883BBC1A176C2C00175A9E /* HelloWorldExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 48883BBB1A176C2C00175A9E /* HelloWorldExampleTests.m */; };
 		48883BC71A1770CA00175A9E /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 48883BC61A1770CA00175A9E /* SecondViewController.m */; };
+		48883BCA1A1771BB00175A9E /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 48883BC91A1771BB00175A9E /* MapViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		48883BBB1A176C2C00175A9E /* HelloWorldExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldExampleTests.m; sourceTree = "<group>"; };
 		48883BC51A1770CA00175A9E /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		48883BC61A1770CA00175A9E /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		48883BC81A1771BB00175A9E /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		48883BC91A1771BB00175A9E /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 				48883B9F1A176C2C00175A9E /* Supporting Files */,
 				48883BC51A1770CA00175A9E /* SecondViewController.h */,
 				48883BC61A1770CA00175A9E /* SecondViewController.m */,
+				48883BC81A1771BB00175A9E /* MapViewController.h */,
+				48883BC91A1771BB00175A9E /* MapViewController.m */,
 			);
 			path = HelloWorldExample;
 			sourceTree = "<group>";
@@ -226,6 +231,7 @@
 			files = (
 				48883BC71A1770CA00175A9E /* SecondViewController.m in Sources */,
 				48883BA81A176C2C00175A9E /* ViewController.m in Sources */,
+				48883BCA1A1771BB00175A9E /* MapViewController.m in Sources */,
 				48883BA51A176C2C00175A9E /* AppDelegate.m in Sources */,
 				48883BA21A176C2C00175A9E /* main.m in Sources */,
 			);
