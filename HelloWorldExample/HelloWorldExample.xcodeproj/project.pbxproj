@@ -15,6 +15,7 @@
 		48883BB01A176C2C00175A9E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 48883BAE1A176C2C00175A9E /* LaunchScreen.xib */; };
 		48883BBC1A176C2C00175A9E /* HelloWorldExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 48883BBB1A176C2C00175A9E /* HelloWorldExampleTests.m */; };
 		48883BC71A1770CA00175A9E /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 48883BC61A1770CA00175A9E /* SecondViewController.m */; };
+		91806B591A177175008CDA98 /* ThirdViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91806B581A177175008CDA98 /* ThirdViewViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		48883BBB1A176C2C00175A9E /* HelloWorldExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldExampleTests.m; sourceTree = "<group>"; };
 		48883BC51A1770CA00175A9E /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		48883BC61A1770CA00175A9E /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		91806B571A177175008CDA98 /* ThirdViewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewViewController.h; sourceTree = "<group>"; };
+		91806B581A177175008CDA98 /* ThirdViewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 		48883B931A176C2C00175A9E = {
 			isa = PBXGroup;
 			children = (
+				91806B571A177175008CDA98 /* ThirdViewViewController.h */,
+				91806B581A177175008CDA98 /* ThirdViewViewController.m */,
 				48883B9E1A176C2C00175A9E /* HelloWorldExample */,
 				48883BB81A176C2C00175A9E /* HelloWorldExampleTests */,
 				48883B9D1A176C2C00175A9E /* Products */,
@@ -228,6 +233,7 @@
 				48883BA81A176C2C00175A9E /* ViewController.m in Sources */,
 				48883BA51A176C2C00175A9E /* AppDelegate.m in Sources */,
 				48883BA21A176C2C00175A9E /* main.m in Sources */,
+				91806B591A177175008CDA98 /* ThirdViewViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
